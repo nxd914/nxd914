@@ -35,7 +35,8 @@ I'm Noah Donovan — a dedicated undergraduate at the University of Miami pursui
 ### 📫 Connect with me
 - Email: nxd914@miami.edu  
 - LinkedIn: [linkedin.com/in/nmdd](https://www.linkedin.com/in/nmdd)
--Resume: NOAHDONOVANRESUME
+- Resume: [NOAHDONOVANRESUME](https://raw.githubusercontent.com/nxd914/NOAHDONOVANRESUME/main/NOAHDONOVANRESUME.docx)
+
 ---
 
 *Thank you for visiting my profile! Feel free to reach out if you'd like to collaborate or chat about math, finance, or machine learning.*
