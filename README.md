@@ -50,7 +50,8 @@ I'm **Noah Donovan**, a passionate undergraduate at the University of Miami purs
 ### 📫 **Connect with Me**
 - **Email:** nxd914@miami.edu  
 - **LinkedIn:** [linkedin.com/in/nmdd](https://www.linkedin.com/in/nmdd)  
-- **Resume:** [NOAHDONOVANRESUME](https://raw.githubusercontent.com/nxd914/NOAHDONOVANRESUME/d7b126842a753f567c094367cd5bd6713ad9cc22/NOAHDONOVANRESUME.docx) - **ResearchGate:** [Noah Donovan](https://www.researchgate.net/profile/Noah-Donovan?ev=prf_overview)
+- **Resume:** [NOAHDONOVANRESUME](https://raw.githubusercontent.com/nxd914/NOAHDONOVANRESUME/d7b126842a753f567c094367cd5bd6713ad9cc22/NOAHDONOVANRESUME.docx)  
+- **ResearchGate:** [Noah Donovan](https://www.researchgate.net/profile/Noah-Donovan?ev=prf_overview)
 
 ---
 
