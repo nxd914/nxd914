@@ -19,8 +19,8 @@ I'm **Noah Donovan**, a passionate undergraduate at the University of Miami purs
   - Developed **financial reports** and **forecasts** for **revenue streams** from ticket sales, sponsorships, and merchandise.
   - Built **financial models** to assess **revenue trends**, helping identify **cost-saving opportunities** and optimize **operational efficiency**.
 
-  - **Real Estate Investment Intern** at **State Street Properties**, Chicago, Illinois (May 2025 – May 2025):
-  - Conducted detailed **financial analysis** on commercial real estate investments, using **DCF models**, **cap rate valuations**, and **market comparables** to assess **ROI** and **risk**.
+- **Real Estate Investment Intern** at **State Street Properties**, Chicago, Illinois (May 2025 – May 2025):
+  - Conducted detailed **financial analysis** on commercial real estate investments, using **DCF models**, **cap rate valuations**, and **market       comparables** to assess **ROI** and **risk**.
   - Developed **financial models**, including discounted cash flow and cap rate calculations, to determine **property investment viability**.
   - Supported **due diligence processes** for commercial real estate acquisitions, reviewing **financial statements**, **lease structures**, and **historical performance**.
 
