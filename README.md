@@ -16,9 +16,9 @@ I'm **Noah Donovan**, a passionate undergraduate at the University of Miami purs
 ### 💼 **Professional Experience**
 
 - **Quantitative Analyst Intern** — *Chicago Cubs, Chicago, IL* (May 2024 – Present)  
-  - Engineered financial models to forecast revenue across ticketing, sponsorships, and merchandise verticals, incorporating seasonality and historical trends to improve accuracy.  
-  - Supported data-driven decision-making by identifying revenue optimization and cost-efficiency opportunities through financial analysis and variance tracking.  
-  - Contributed to financial reporting automation by designing templates and procedures for reconciliations and accounts receivable, improving monthly close speed and accuracy.
+  - Engineer financial models to forecast revenue across ticketing, sponsorships, and merchandise verticals, incorporating seasonality and historical trends to improve accuracy.  
+  - Support data-driven decision-making by identifying revenue optimization and cost-efficiency opportunities through financial analysis and variance tracking.  
+  - Contribute to financial reporting automation by designing templates and procedures for reconciliations and accounts receivable, improving monthly close speed and accuracy.
 
 - **Real Estate Investment Intern** — *State Street Properties, Chicago, IL* (May 2025)  
   - Conducted detailed financial analysis on commercial real estate investments, using DCF models, cap rate valuations, and market comparables to assess ROI and risk.  
