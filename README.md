@@ -1,64 +1,62 @@
-# Hi there 👋
+# 👋 Hi, I’m Noah Donovan  
+I’m an undergraduate at the **University of Miami** pursuing a **B.S.B.A. in Economics & Mathematics (4.0 GPA)**. My work sits at the intersection of **quantitative modeling, finance, and artificial intelligence**, with a focus on applying rigorous mathematics to solve real-world problems.  
 
-I'm **Noah Donovan**, a passionate undergraduate at the University of Miami pursuing a B.S.B.A. in **Economics** and **Mathematics** with a **perfect 4.0 GPA**. Based in **Silicon Valley, CA**, I am focused on advancing the frontiers of **artificial intelligence research** by combining deep mathematical theory with cutting-edge machine learning. My academic and professional journey bridges **applied mathematics**, **probabilistic modeling**, and **AI-driven algorithm design**, with the goal of driving innovation in large-scale AI systems.
+Based in **New York City**, I’m especially interested in **how advanced statistical and machine learning methods can deliver practical impact in finance, real estate, and media industries**.  
 
 ---
 
-### 🎓 **Education & Research Interests**
-- **B.S.B.A. in Economics and Mathematics**, University of Miami (Class of 2027)  
-- **Honors:** Foote Fellows Honors Program, Departmental Honors in Mathematics, Prism Honors Program  
-- **Research Interests:**  
+### 🎓 Education & Research Interests
+- **B.S.B.A. Economics & Mathematics**, University of Miami (Class of 2027)  
+- Honors: Foote Fellows Honors Program, Departmental Honors in Mathematics, Prism Honors Program  
+- Research areas:  
   | AI/ML Algorithms | Generative Models | Applied Mathematics in Deep Learning | Probabilistic Modeling | High-Dimensional Optimization | Statistical Learning Theory |
 
 ---
 
-### 💼 **Professional & Research Experience**
+### 💼 Experience
+- **Quantitative Analyst Intern** — Chicago Cubs (May 2024 – Present)  
+  - Built financial forecasting models for ticketing, sponsorships, and merchandising revenue.  
+  - Automated reporting processes, reducing close cycles and increasing accuracy.  
+  - Applied time series methods to identify revenue trends and opportunities.  
 
-- **Quantitative Analyst Intern** — *Chicago Cubs, Chicago, IL* (May 2024 – Present)  
-  - Engineer financial models to forecast revenue across multiple verticals (ticketing, sponsorships, merchandise), incorporating seasonality and historical trends to improve forecasting accuracy.  
-  - Support data-driven decision making by identifying revenue optimization and cost-efficiency opportunities through financial analysis and variance tracking.  
-  - Contribute to financial reporting automation by designing templates and procedures for reconciliations and accounts receivable, improving monthly close speed and accuracy.
+- **Real Estate Investment Intern** — State Street Properties (May 2025 – June 2025)  
+  - Developed DCF and cap-rate valuation models to evaluate commercial acquisitions.  
+  - Assessed ROI and risk using financial and market data.  
+  - Supported due diligence for multi-million-dollar real estate transactions.  
 
-- **Real Estate Investment Intern** — *State Street Properties, Chicago, IL* (May 2025 – June 2025)  
-  - Conducted financial analysis on commercial real estate investments, using DCF models, cap rate valuations, and market comparables to assess ROI and risk.  
-  - Developed financial models, including discounted cash flow and cap rate calculations, to determine property investment viability.  
-  - Supported due diligence processes for commercial real estate acquisitions, reviewing financial statements, lease structures, and historical performance.
+- **Government Finance Intern** — City of Miami Beach (Jan 2025 – May 2025)  
+  - Produced fiscal forecasts for major infrastructure projects.  
+  - Designed models for cost-benefit analysis to guide public spending decisions.  
 
-- **Government Finance Intern** — *City of Miami Beach, Miami Beach, FL* (Jan 2025 – May 2025)  
-  - Led the preparation of financial reports, including budget forecasts and projections for major city infrastructure projects.  
-  - Conducted cost-benefit analysis and provided data-driven insights that improved the city’s fiscal planning and resource allocation.  
-  - Assisted in the refinement of capital expenditure models, supporting long-term financial strategies for municipal projects.
-
-- **Corporate Tax Intern** — *Miller Cooper & Co., Chicago, IL* (May 2023 – Aug 2023)  
-  - Conducted audit and tax analysis for corporate clients across multiple sectors, helping identify discrepancies and ensure tax compliance.  
-  - Prepared detailed financial projections and tax planning strategies, improving financial reporting and helping clients optimize their tax positions.  
-  - Reviewed financial statements for clients in real estate and tech industries, identifying potential tax-saving strategies.
+- **Corporate Tax Intern** — Miller Cooper & Co. (May 2023 – Aug 2023)  
+  - Conducted tax compliance reviews and optimization strategies for diverse clients.  
+  - Analyzed financial statements in real estate and technology verticals.  
 
 ---
 
-### 💡 **Skills & Tools**
-- **Mathematics & Statistics:** Probability, Stochastic Processes, Convex Optimization, Numerical Methods, Time Series Analysis, Statistical Inference  
-- **Programming:** Python (NumPy, Pandas, scikit-learn, PyTorch), MATLAB, C++, R, Git  
-- **Machine Learning:** Supervised/Unsupervised Learning, Neural Networks, Model Evaluation, Monte Carlo Simulation  
-- **Other:** Data Cleaning, Feature Engineering, AWS (Basics), Visualization (Matplotlib, Seaborn, Tableau)  
-- **Certifications:** Python for Data Science & Machine Learning, Python for Financial Analysis, FMVA, CFA Level I (Candidate), Advanced Excel for Modeling  
+### 💡 Skills & Tools
+- **Mathematics & Statistics**: Probability, Optimization, Stochastic Processes, Time Series, Statistical Inference  
+- **Programming**: Python (NumPy, Pandas, scikit-learn, PyTorch), MATLAB, C++, R, Git  
+- **Machine Learning**: Predictive Modeling, Neural Networks, Generative Models, Simulation Methods  
+- **Other**: Data Visualization (Tableau, Seaborn, Matplotlib), AWS (basic), Advanced Excel  
+- **Certifications**: Python for Data Science & ML, Python for Financial Analysis, FMVA, CFA Level I (Candidate)  
 
 ---
 
-### 🎯 **Current Focus**
-- Designing **novel AI/ML architectures** grounded in robust mathematical theory.  
-- Exploring **probabilistic and optimization-based approaches** to large-scale AI problem solving.  
-- Contributing to AI research projects with potential applications in generative AI, reinforcement learning, and high-dimensional data analysis.  
-- Actively seeking collaborations and research opportunities in **Silicon Valley’s AI ecosystem**.
+### 🎯 Current Focus
+- Developing **AI and Machine Learning models** that drive innovation in finance, real estate, and media industries, aligned with NYC’s top growth sectors.  
+- Building and optimizing **data-driven solutions** using statistical modeling, predictive analytics, and large-scale data infrastructure.  
+- Applying **cloud computing architectures** and automation to enhance scalable AI and machine learning systems.  
+- Engaging with New York’s vibrant **FinTech, AI research, and cloud technology** communities to contribute applied expertise.  
 
 ---
 
-### 📫 **Connect with Me**
-- **Email:** nxd914@miami.edu  
-- **LinkedIn:** [linkedin.com/in/nmdd](https://www.linkedin.com/in/nmdd)  
-- **GitHub:** [github.com/nxd914](https://github.com/nxd914)  
+### 📫 Connect with Me
+- Email: nxd914@miami.edu  
+- LinkedIn: [linkedin.com/in/nmdd](https://www.linkedin.com/in/nmdd)  
+- GitHub: [github.com/nxd914](https://github.com/nxd914)  
 
 ---
 
-**Thanks for visiting my profile!**  
-Let’s connect if you’d like to collaborate on **AI algorithms, machine learning research, or applied mathematics** — especially within Silicon Valley’s cutting-edge AI community.
+⚡ Thanks for visiting my profile!  
+I’m always excited to connect with peers, researchers, and professionals in **New York’s tech, finance, and data-driven innovation ecosystem**.  
