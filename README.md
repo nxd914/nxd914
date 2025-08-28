@@ -1,53 +1,63 @@
-# 👋 Hi, I’m Noah Donovan  
-I’m an undergraduate at the **University of Miami** pursuing a **B.S.B.A. in Economics & Mathematics (4.0 GPA)**. My work sits at the intersection of **quantitative modeling, finance, and artificial intelligence**, with a focus on applying rigorous mathematics to solve real-world problems.  
+# 👋 Hi, I'm Noah Donovan  
+I'm an undergraduate at the **University of Miami** pursuing a **B.S.B.A. in Economics & Mathematics (4.0 GPA)**. My work sits at the intersection of **quantitative modeling, artificial intelligence, and computational economics**, with a focus on applying rigorous mathematics to solve complex problems through machine learning and statistical methods.  
 
-Based in **New York City**, I’m especially interested in **how advanced statistical and machine learning methods can deliver practical impact in finance, real estate, and media industries**.  
+Based in **New York City**, I'm passionate about **advancing AI research and its applications in finance, technology, and data-driven industries**, preparing for doctoral studies in **Computer Science with a specialization in Artificial Intelligence**.  
 
 ---
 
 ### 🎓 Education & Research Interests
 - **B.S.B.A. Economics & Mathematics**, University of Miami (Class of 2027)  
-- Honors: Foote Fellows Honors Program, Departmental Honors in Mathematics, Prism Honors Program  
-- Research Interests:  
-  | AI/ML Algorithms | Generative Models | Applied Mathematics in Deep Learning | Probabilistic Modeling | High-Dimensional Optimization | Statistical Learning Theory |
+- Honors: Foote Fellows Honors Program, Departmental Honors in Economics & Mathematics, Prism Honors Program  
+- **Research Interests:**  
+ | Artificial Intelligence/Machine Learning Algorithms | Generative Models | Applied Mathematics in Deep Learning | Probabilistic Modeling | High-Dimensional Optimization | Statistical Learning Theory |
 
 ---
 
 ### 💼 Experience
 - **Quantitative Analyst Intern** — Chicago Cubs (May 2024 – Present)  
-  - Built financial forecasting models for ticketing, sponsorships, and merchandising revenue.  
-  - Automated reporting processes, reducing close cycles and increasing accuracy.  
-  - Applied time series methods to identify revenue trends and opportunities.  
+ - Engineer machine learning models for revenue forecasting across ticketing, sponsorships, and merchandising.  
+ - Develop automated data pipelines and statistical analysis systems to optimize business operations.  
+ - Apply time series analysis and predictive modeling to identify strategic opportunities.  
 
 - **Real Estate Investment Intern** — State Street Properties (May 2025 – June 2025)  
-  - Developed DCF and cap-rate valuation models to evaluate commercial acquisitions.  
-  - Assessed ROI and risk using financial and market data.  
-  - Supported due diligence for multi-million-dollar real estate transactions.  
+ - Build computational models for commercial real estate valuation using DCF analysis and statistical methods.  
+ - Implement data-driven risk assessment algorithms for multi-million-dollar investment decisions.  
+ - Develop automated financial modeling frameworks for scalable property evaluation.  
 
 - **Government Finance Intern** — City of Miami Beach (Jan 2025 – May 2025)  
-  - Produced fiscal forecasts for major infrastructure projects.  
-  - Designed models for cost-benefit analysis to guide public spending decisions.  
+ - Design predictive models and optimization algorithms for municipal budget forecasting.  
+ - Apply statistical methods and data analysis to improve public resource allocation efficiency.  
+ - Create automated reporting systems for infrastructure project planning.  
 
 - **Corporate Tax Intern** — Miller Cooper & Co. (May 2023 – Aug 2023)  
-  - Conducted tax compliance reviews and optimization strategies for diverse clients.  
-  - Analyzed financial statements in real estate and technology verticals.  
+ - Develop data analysis frameworks for tax compliance and optimization across multiple sectors.  
+ - Apply statistical modeling techniques to identify patterns and opportunities in financial data.  
 
 ---
 
 ### 💡 Skills & Tools
-- **Mathematics & Statistics**: Probability, Optimization, Stochastic Processes, Time Series, Statistical Inference  
-- **Programming**: Python (NumPy, Pandas, scikit-learn, PyTorch), MATLAB, C++, R, Git  
-- **Machine Learning**: Predictive Modeling, Neural Networks, Generative Models, Simulation Methods  
-- **Other**: Data Visualization (Tableau, Seaborn, Matplotlib), AWS (basic), Advanced Excel  
-- **Certifications**: Python for Data Science & ML, Python for Financial Analysis, FMVA, CFA Level I (Candidate)  
+- **Programming & Development**: Python (NumPy, Pandas, scikit-learn, PyTorch, TensorFlow), MATLAB, C++, R, Java, SQL, Git  
+- **Machine Learning & AI**: Supervised/Unsupervised Learning, Neural Networks, Deep Learning, Reinforcement Learning, Natural Language Processing, Computer Vision  
+- **Mathematics & Statistics**: Stochastic Processes, Convex Optimization, Numerical Methods, Time Series Analysis, Statistical Inference, Linear Algebra, Probability Theory  
+- **Data Science & Analytics**: Predictive Modeling, Statistical Computing, Monte Carlo Simulation, Data Mining, Algorithm Design  
+- **Tools & Platforms**: Linux/Unix, AWS, Docker, Jupyter, Tableau, Advanced Excel  
+- **Certifications**: Python for Machine Learning, Advanced Statistical Computing, CFA Level I, FMVA  
 
 ---
 
 ### 🎯 Current Focus
-- Developing **AI and Machine Learning models** that drive innovation in finance, real estate, and media industries, aligned with NYC’s top growth sectors.  
-- Building and optimizing **data-driven solutions** using statistical modeling, predictive analytics, and large-scale data infrastructure.  
-- Applying **cloud computing architectures** and automation to enhance scalable AI and machine learning systems.  
-- Engaging with New York’s vibrant **FinTech, AI research, and cloud technology** communities to contribute applied expertise.  
+- Preparing for **Computer Science PhD programs** with specialization in **Artificial Intelligence and Machine Learning**  
+- Developing **deep learning models** and **statistical learning algorithms** for real-world applications  
+- Building **scalable AI systems** using cloud computing architectures and distributed computing frameworks  
+- Contributing to **AI research** in computational economics, algorithmic game theory, and optimization  
+- Engaging with New York's **AI research community, tech ecosystem, and academic institutions**  
+
+---
+
+### 🔬 Research & Academic Goals
+- **Short-term**: Gain research experience in AI/ML through academic projects and industry collaborations  
+- **Long-term**: Pursue doctoral research in Computer Science, focusing on the intersection of **AI, economics, and mathematical optimization**  
+- **Career Vision**: Become a leading **AI research scientist** contributing to cutting-edge machine learning theory and applications  
 
 ---
 
@@ -59,4 +69,4 @@ Based in **New York City**, I’m especially interested in **how advanced statis
 ---
 
 ⚡ Thanks for visiting my profile!  
-I’m always excited to connect with peers, researchers, and professionals in **New York’s tech, finance, and data-driven innovation ecosystem**.  
+I'm always excited to connect with **researchers, PhD students, and professionals** in **AI/ML, computer science, and data science** communities, especially within **New York's thriving tech and academic ecosystem**.
