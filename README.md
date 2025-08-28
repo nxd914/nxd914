@@ -8,8 +8,7 @@ Based in **New York City**, I'm passionate about **advancing AI research and its
 ### 🎓 Education & Research Interests
 - **B.S.B.A. Economics & Mathematics**, University of Miami (Class of 2027)  
 - Honors: Foote Fellows Honors Program, Departmental Honors in Economics & Mathematics, Prism Honors Program  
-- **Research Interests:**  
-  | Artificial Intelligence/Machine Learning Algorithms | Generative Models | Applied Mathematics in Deep Learning | Probabilistic Modeling | High-Dimensional Optimization | Statistical Learning Theory |
+- **Research Interests:**    | Artificial Intelligence/Machine Learning Algorithms | Generative Models | Applied Mathematics in Deep Learning | Probabilistic Modeling | High-Dimensional Optimization | Statistical Learning Theory |
 
 ---
 
